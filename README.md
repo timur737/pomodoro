@@ -4,6 +4,5 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 
 ----
 
-* Python 3.x and tkinter are initially recommended to install
 
 * Wikipedia [link](https://en.wikipedia.org/wiki/Pomodoro_Technique)
