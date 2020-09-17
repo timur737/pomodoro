@@ -63,4 +63,3 @@ btn1.grid(row=1, columnspan=2, sticky="ew")
 
 root.mainloop()
 
-#Оболбеков Тимур
